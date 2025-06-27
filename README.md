@@ -1,6 +1,6 @@
 # Adaptive Multi-Order Node Embeddings
 
-This repository contains the code, models, and experiments for the paper: **"The Challenge of Multi-Order Embeddings"**
+This repository contains the code, models, and experiments for the report: **"The Challenge of Multi-Order Embeddings"**
 *Amro Asali, June 2025*
 
 ## 📌 Overview
